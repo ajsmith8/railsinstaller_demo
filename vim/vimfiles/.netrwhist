@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='C:/Sites/railsinstaller_demo/config'
+let g:netrw_dirhist_2='C:/Sites/railsinstaller_demo/config/initializers'
+let g:netrw_dirhist_3='C:/Sites/railsinstaller_demo/config'
